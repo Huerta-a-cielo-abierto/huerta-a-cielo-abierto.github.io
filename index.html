@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Huerta C.E.P.T. N.° 30</title>
+<meta name="description" content="Fichas de la huerta agroecológica del C.E.P.T. N.° 30. Se abren escaneando el código QR de cada cartel y funcionan sin internet.">
+<meta name="theme-color" content="#C9F0E3">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="iconos/icono-192.png">
+<link rel="apple-touch-icon" href="iconos/icono-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Huerta CEPT 30">
+<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+<header class="barra">
+  <a href="./" class="barra-titulo" id="ir-inicio">🌱 Huerta agroecológica · C.E.P.T. N.° 30</a>
+</header>
+<main id="contenido" tabindex="-1">
+  <noscript><p class="caja">Para ver las fichas hace falta tener JavaScript activado.</p></noscript>
+</main>
+
+<div class="escaner" id="escaner" hidden>
+  <div class="escaner-caja">
+    <video id="video" playsinline muted></video>
+    <div class="marco" aria-hidden="true"></div>
+  </div>
+  <p class="escaner-texto" id="escaner-texto">Apuntá la cámara al código QR del cartel</p>
+  <button class="boton boton-claro" id="cerrar-escaner" type="button">Cerrar</button>
+</div>
+
+<script src="vendor/jsQR.js" defer></script>
+<script src="app.js" defer></script>
+</body>
+</html>

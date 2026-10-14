@@ -1,0 +1,2513 @@
+[
+ {
+  "n": "01",
+  "code": "wrgv79",
+  "tipo": "Hortaliza",
+  "nombre": "ACELGA",
+  "cientifico": "Beta vulgaris var. cicla",
+  "familia": "Familia Amaranthaceae",
+  "lamina": "Lámina de Köhler's Medizinal-Pflanzen (W. O. Müller, 1887). Dominio público. Muestra la especie Beta vulgaris en flor, con sus flores y semillas ampliadas.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🍽️ ¿Qué comemos?",
+     "x": "Las hojas y las pencas, que son los tallitos carnosos de las hojas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se siembra?",
+     "x": "En nuestra zona de agosto a octubre y de febrero a abril."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Distancia",
+     "x": "30 cm entre plantas y 40 cm entre líneas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Frecuente y parejo, sin encharcar."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🧺 Cosecha",
+     "x": "A los 60 o 70 días. Se cortan las hojas de afuera y la planta sigue produciendo durante varios meses."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se siembra?",
+     "x": "En siembra directa o en almácigo, a 2 cm de profundidad. Cada \"semilla\" es en realidad un grupito de semillas pegadas, por eso nacen varias plantitas juntas y hay que ralear dejando la más fuerte. Tolera muy bien el trasplante, así que también se puede hacer almácigo y pasarla después a la huerta."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "Florece recién en su segundo año, en primavera. Se cruza con la remolacha, así que no conviene dejar florecer las dos en la misma temporada. Se cortan los tallos cuando las semillas de abajo se ponen marrones, se secan a la sombra sobre una lona y se frotan para separarlas."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Frasco de vidrio rotulado, en lugar fresco, seco y oscuro. Duran 4 a 5 años."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Buenas compañeras",
+     "x": "Lechuga, cebolla, repollo."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Espinaca y remolacha, porque son de la misma familia y comparten plagas."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Pulgones, caracoles y babosas, minador de la hoja."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "La acelga y la remolacha son la misma especie. Una se seleccionó por sus hojas y la otra por su raíz."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, color de la penca (blanca, amarilla, roja), forma y textura de la hoja (lisa o arrugada), tamaño de la planta."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": ""
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": ""
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   2,
+   3,
+   4,
+   8,
+   9,
+   10
+  ],
+  "parte": "hojas y pencas",
+  "verbo": "siembra",
+  "usa": "Se come"
+ },
+ {
+  "n": "02",
+  "code": "8zm9sd",
+  "tipo": "Hortaliza",
+  "nombre": "LECHUGA",
+  "cientifico": "Lactuca sativa",
+  "familia": "Familia Asteraceae",
+  "lamina": "Lámina botánica de Lactuca sativa (A. Chodura). Dominio público.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🍽️ ¿Qué comemos?",
+     "x": "Las hojas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se siembra?",
+     "x": "Casi todo el año en siembras escalonadas. En nuestra zona rinde mejor de febrero a abril y de agosto a noviembre. En pleno verano conviene media sombra porque con el calor se \"espiga\" (florece) y se pone amarga."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Distancia",
+     "x": "25 a 30 cm entre plantas y 30 cm entre líneas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Frecuente y liviano. Necesita el suelo siempre húmedo."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🧺 Cosecha",
+     "x": "Entre los 45 y 70 días según la variedad. Se cosecha la planta entera o se van cortando hojas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se siembra?",
+     "x": "En almácigo, con la semilla casi en superficie (medio centímetro), y trasplante cuando la plantita tiene 4 o 5 hojas. También puede sembrarse directo. Tolera muy bien el trasplante."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "Se dejan florecer las plantas más sanas y las que más tardan en espigarse, sin cortarles hojas. Se cosecha cuando la mitad de las flores muestra el pelusón blanco. Los tallos se secan dentro de una bolsa de papel y se sacuden."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Frasco rotulado, en lugar fresco y oscuro. Duran unos 3 años."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Buenas compañeras",
+     "x": "Zanahoria, rabanito, cebolla, acelga."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Perejil."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Pulgones, caracoles y babosas, trips."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "La lechuga verde y la lechuga morada son la misma especie. El color violeta se debe a pigmentos que la planta produce en sus hojas y que la protegen del sol."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, color de la hoja (verde, morada, mezcla), forma (lisa, crespa, de hoja de roble), si forma cabeza o queda suelta."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": "Miércoles 1 de abril de 2026 (permanencia 2), en almácigo y camellones del invernadero (P.I.C. 1° año)"
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": "Estudiantes de 1° año 2026"
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   2,
+   3,
+   4,
+   8,
+   9,
+   10,
+   11
+  ],
+  "parte": "hojas",
+  "verbo": "siembra",
+  "usa": "Se come"
+ },
+ {
+  "n": "03",
+  "code": "qwwzwb",
+  "tipo": "Hortaliza",
+  "nombre": "ESPINACA",
+  "cientifico": "Spinacia oleracea",
+  "familia": "Familia Amaranthaceae",
+  "lamina": "Lámina de la Flora von Deutschland de O. W. Thomé (1885). Dominio público.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🍽️ ¿Qué comemos?",
+     "x": "Las hojas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se siembra?",
+     "x": "De febrero a abril y de julio a septiembre. Le gusta el fresco. Con calor y días largos florece enseguida."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Distancia",
+     "x": "10 a 15 cm entre plantas y 30 cm entre líneas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Regular, manteniendo el suelo húmedo."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🧺 Cosecha",
+     "x": "Entre los 40 y 60 días. Se cortan las hojas de afuera."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se siembra?",
+     "x": "Siembra directa a 2 cm de profundidad, porque no le gusta el trasplante. Su raíz es larga y se daña fácilmente al moverla."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "Hay plantas macho y plantas hembra y el viento lleva el polen, por eso se dejan florecer varias juntas. Solo las hembras dan semilla. Se cosechan cuando la planta se pone amarilla, y conviene usar guantes porque algunas semillas pinchan."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Frasco rotulado, en lugar fresco y seco. Duran 3 a 4 años."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Buenas compañeras",
+     "x": "Lechuga, rabanito, habas."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Acelga y remolacha, porque son de la misma familia y comparten plagas."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Pulgones, minador de la hoja, mildiu (manchas amarillas arriba y pelusa gris abajo de la hoja)."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "En la espinaca hay plantas macho y plantas hembra. Solo las hembras dan semillas."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, forma de la hoja (lisa o arrugada, redondeada o en punta), color, si florece rápido o tarde."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": "Miércoles 1 de abril de 2026 (permanencia 2), en almácigo y camellones del invernadero (P.I.C. 1° año)"
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": "Estudiantes de 1° año 2026"
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   2,
+   3,
+   4,
+   7,
+   8,
+   9
+  ],
+  "parte": "hojas",
+  "verbo": "siembra",
+  "usa": "Se come"
+ },
+ {
+  "n": "04",
+  "code": "527h5v",
+  "tipo": "Hortaliza",
+  "nombre": "REMOLACHA",
+  "cientifico": "Beta vulgaris",
+  "familia": "Familia Amaranthaceae",
+  "lamina": "Lámina de la Flora von Deutschland de O. W. Thomé (1885). Dominio público.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🍽️ ¿Qué comemos?",
+     "x": "La raíz engrosada. Las hojas tiernas también se comen, igual que las de la acelga."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se siembra?",
+     "x": "De agosto a diciembre y de febrero a marzo, en siembras escalonadas."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Distancia",
+     "x": "10 cm entre plantas y 30 a 40 cm entre líneas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Regular y parejo. Si falta agua y después llueve mucho, la raíz se raja."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🧺 Cosecha",
+     "x": "Entre los 60 y 90 días, cuando la raíz tiene el tamaño de una pelota de tenis o un poco menos."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se siembra?",
+     "x": "Siembra directa a 2 cm de profundidad. Igual que la acelga, cada \"semilla\" es un grupito de semillas y hay que ralear. Conviene sembrarla directo, porque no le gusta el trasplante."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "Igual que la acelga, florece en su segundo año y se cruzan entre ellas. Se eligen las raíces más lindas, se dejan en la tierra durante el invierno y en primavera dan los tallos con semillas. Se cosechan cuando se ponen marrones."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Frasco rotulado, en lugar fresco y seco. Duran 4 a 5 años."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Buenas compañeras",
+     "x": "Cebolla, lechuga, repollo."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Acelga y espinaca, porque son de la misma familia y comparten plagas."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Pulgones, minador de la hoja, manchas en las hojas."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "Al cortar una remolacha se ven anillos dentro de la raíz, que muestran cómo fue creciendo."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, forma de la raíz (redonda, achatada o alargada), color de la pulpa y si tiene anillos marcados."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": "Miércoles 1 de abril de 2026 (permanencia 2), en almácigo y camellones del invernadero (P.I.C. 1° año)"
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": "Estudiantes de 1° año 2026"
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   2,
+   3,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "parte": "raíz y hojas",
+  "verbo": "siembra",
+  "usa": "Se come"
+ },
+ {
+  "n": "05",
+  "code": "cah22v",
+  "tipo": "Hortaliza",
+  "nombre": "ZANAHORIA",
+  "cientifico": "Daucus carota",
+  "familia": "Familia Apiaceae",
+  "lamina": "Lámina de la Flora von Deutschland de O. W. Thomé (1885). Dominio público.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🍽️ ¿Qué comemos?",
+     "x": "La raíz engrosada."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se siembra?",
+     "x": "De agosto a marzo, en siembras escalonadas."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Distancia",
+     "x": "Ralear dejando 5 a 8 cm entre plantas, con 30 cm entre líneas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Regular. El suelo debe estar suelto y sin piedras para que la raíz crezca derecha."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🧺 Cosecha",
+     "x": "Entre los 90 y 120 días."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se siembra?",
+     "x": "Siembra directa, porque no tolera el trasplante. La semilla es muy chiquita y va a 1 cm de profundidad. Se puede mezclar con arena para repartirla mejor. Tarda en nacer, hasta tres semanas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "Florece en su segundo año y la polinizan los insectos. Se cruza con la zanahoria silvestre de las banquinas, que da raíces blancas y duras. Se cortan las umbelas cuando están marrones y secas, y las mejores semillas son las de la umbela principal."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Frasco rotulado, en lugar fresco y oscuro. Duran unos 3 años."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Buenas compañeras",
+     "x": "Cebolla, puerro, lechuga, rabanito."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Apio, porque son de la misma familia y comparten plagas."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Pulgones, gusanos del suelo, manchas en las hojas."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "Las primeras zanahorias que se cultivaron eran violetas o amarillas. La zanahoria naranja se seleccionó mucho tiempo después."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, largo y forma de la raíz (larga y en punta, corta y redondeada), color."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": ""
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": ""
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   1,
+   2,
+   3,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "parte": "raíz",
+  "verbo": "siembra",
+  "usa": "Se come"
+ },
+ {
+  "n": "06",
+  "code": "5udhwe",
+  "tipo": "Hortaliza",
+  "nombre": "RABANITO",
+  "cientifico": "Raphanus sativus",
+  "familia": "Familia Brassicaceae",
+  "lamina": "Lámina de A. Masclef, Atlas des plantes de France (1891). Dominio público.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🍽️ ¿Qué comemos?",
+     "x": "La raíz engrosada."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se siembra?",
+     "x": "Casi todo el año, evitando lo más frío del invierno y lo más caluroso del verano."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Distancia",
+     "x": "3 a 5 cm entre plantas y 15 a 20 cm entre líneas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Frecuente. Si le falta agua se pone picante y \"corchoso\"."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🧺 Cosecha",
+     "x": "Muy rápido, entre los 25 y 35 días. Si se deja pasar, se ahueca."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se siembra?",
+     "x": "Siembra directa a 1 cm de profundidad, porque no tolera el trasplante. Si se la mueve, la raíz se deforma y no engorda bien."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "Se dejan florecer algunas plantas y las abejas las polinizan. Se cosechan las vainas cuando están secas y marrones. Como no se abren solas, se aplastan para sacar las semillas."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Frasco rotulado, en lugar fresco y seco. Duran 4 a 5 años."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Buenas compañeras",
+     "x": "Lechuga, zanahoria, espinaca."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Repollo y otras plantas de su familia, porque comparten plagas."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Pulguilla (insectito que agujerea las hojas), pulgones."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "Es una de las hortalizas más rápidas de la huerta. Por eso es ideal para quienes recién empiezan."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, forma de la raíz (redonda o alargada) y color (rojo, rojo y blanco, blanco)."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": "Miércoles 1 de abril de 2026 (permanencia 2), en almácigo y camellones del invernadero (P.I.C. 1° año)"
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": "Estudiantes de 1° año 2026"
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   2,
+   3,
+   4,
+   5,
+   8,
+   9,
+   10,
+   11
+  ],
+  "parte": "raíz",
+  "verbo": "siembra",
+  "usa": "Se come"
+ },
+ {
+  "n": "07",
+  "code": "grs2eb",
+  "tipo": "Hortaliza",
+  "nombre": "CEBOLLA",
+  "cientifico": "Allium cepa",
+  "familia": "Familia Amaryllidaceae",
+  "lamina": "Lámina de la Flora von Deutschland de O. W. Thomé (1885), con cebolla y ciboulette. Dominio público.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🍽️ ¿Qué comemos?",
+     "x": "El bulbo, formado por hojas carnosas que guardan reservas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se siembra?",
+     "x": "Almácigo de febrero a abril y trasplante de junio a agosto. Se cosecha a fines de primavera y en verano."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Distancia",
+     "x": "10 cm entre plantas y 30 a 40 cm entre líneas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Moderado. Se corta el riego unos días antes de cosechar."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🧺 Cosecha",
+     "x": "Cuando las hojas se vuelcan y se empiezan a secar. Se deja orear al sol unos días antes de guardar."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se siembra?",
+     "x": "En almácigo, a 1 cm de profundidad, y trasplante cuando la plantita tiene el grosor de un lápiz. Tolera muy bien el trasplante."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "Se eligen los bulbos más sanos y firmes de la cosecha y se vuelven a plantar en otoño. Al verano siguiente dan una bocha de flores. Se corta cuando algunas cápsulas se abren y se ven las semillas negras, y se termina de secar sobre papel a la sombra."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Frasco rotulado, en lugar fresco y seco. Duran solo 1 a 2 años, así que conviene renovarlas seguido."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Buenas compañeras",
+     "x": "Zanahoria, lechuga, remolacha."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Habas y arvejas."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Trips, mildiu."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "Lo que comemos de la cebolla no es una raíz. Son hojas modificadas que la planta usa como reserva."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, color de la cáscara (blanca, amarilla, morada), forma del bulbo (redonda o achatada)."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": ""
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": ""
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   2,
+   3,
+   4
+  ],
+  "parte": "bulbo",
+  "verbo": "siembra",
+  "usa": "Se come"
+ },
+ {
+  "n": "08",
+  "code": "eyyhfv",
+  "tipo": "Hortaliza",
+  "nombre": "CEBOLLITA DE VERDEO",
+  "cientifico": "Allium fistulosum",
+  "familia": "Familia Amaryllidaceae",
+  "lamina": "Lámina de A. Ypey, Vervolg ob de Avbeeldingen der Artseny-Gewassen (1813). Dominio público.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🍽️ ¿Qué comemos?",
+     "x": "Las hojas verdes y la parte blanca de abajo."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se siembra?",
+     "x": "Casi todo el año."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Distancia",
+     "x": "10 cm entre plantas y 30 cm entre líneas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Regular."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🧺 Cosecha",
+     "x": "Entre los 60 y 80 días. Si se corta por encima de la base, vuelve a brotar."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se siembra?",
+     "x": "En almácigo o siembra directa a 1 cm de profundidad. También se multiplica dividiendo las matas. Tolera muy bien el trasplante."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "Florece en primavera sin necesidad de replantar. La bocha de flores se corta cuando aparecen las semillas negras y se seca a la sombra."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Frasco rotulado, en lugar fresco y seco. Duran 1 a 2 años."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Buenas compañeras",
+     "x": "Zanahoria, lechuga, remolacha."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Habas y arvejas."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Trips."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "Es una especie distinta de la cebolla común. Sus hojas son huecas y no forma un bulbo grande."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, grosor y color de las hojas, si forma matas grandes, altura de la planta."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": "Miércoles 1 de abril de 2026 (permanencia 2), en almácigo y camellones del invernadero (P.I.C. 1° año)"
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": "Estudiantes de 1° año 2026"
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "parte": "hojas",
+  "verbo": "siembra",
+  "usa": "Se come"
+ },
+ {
+  "n": "09",
+  "code": "7w2mpq",
+  "tipo": "Hortaliza",
+  "nombre": "PUERRO",
+  "cientifico": "Allium ampeloprasum var. porrum",
+  "familia": "Familia Amaryllidaceae",
+  "lamina": "Lámina de la Flora von Deutschland de O. W. Thomé (1885), con puerro y ajo de oso. Dominio público.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🍽️ ¿Qué comemos?",
+     "x": "El \"tallo\" blanco, que en realidad está formado por las bases de las hojas enrolladas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se siembra?",
+     "x": "Almácigo de agosto a octubre y de febrero a marzo."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Distancia",
+     "x": "15 cm entre plantas y 40 cm entre líneas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Regular."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🧺 Cosecha",
+     "x": "Entre los 4 y 6 meses después del trasplante."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se siembra?",
+     "x": "En almácigo, y trasplante cuando la plantita tiene el grosor de un lápiz, en un surco profundo. A medida que crece se le arrima tierra (aporque) para que la parte blanca sea más larga. Tolera muy bien el trasplante."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "Se dejan en la huerta las plantas más sanas durante el invierno. En primavera y verano echan un tallo alto con una bocha de flores. Se corta cuando se ven semillas negras y se seca a la sombra."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Frasco rotulado, en lugar fresco y seco. Duran 2 a 3 años."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Buenas compañeras",
+     "x": "Zanahoria, apio, lechuga."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Habas y arvejas."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Trips, roya (manchitas anaranjadas en las hojas)."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "La zanahoria y el puerro son grandes compañeros, porque el olor de cada uno ayuda a alejar las plagas del otro."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, largo y grosor de la parte blanca, color de las hojas (verde claro o azulado)."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": ""
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": ""
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   2,
+   3,
+   8,
+   9,
+   10
+  ],
+  "parte": "tallo blanco",
+  "verbo": "siembra",
+  "usa": "Se come"
+ },
+ {
+  "n": "10",
+  "code": "3ym2zs",
+  "tipo": "Hortaliza",
+  "nombre": "AJO",
+  "cientifico": "Allium sativum",
+  "familia": "Familia Amaryllidaceae",
+  "lamina": "Lámina de Bentley y Trimen, Medicinal Plants (1880). Dominio público.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🍽️ ¿Qué comemos?",
+     "x": "El bulbo, formado por dientes."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se siembra?",
+     "x": "Se plantan los dientes de marzo a mayo y se cosecha en noviembre y diciembre."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Distancia",
+     "x": "10 a 15 cm entre plantas y 30 a 40 cm entre líneas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Moderado. Se corta el riego cuando las hojas empiezan a secarse."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🧺 Cosecha",
+     "x": "Cuando se secan dos tercios de las hojas. Se deja secar a la sombra antes de guardar."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se siembra?",
+     "x": "Se planta cada diente con la punta hacia arriba, a 3 a 5 cm de profundidad."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "El ajo casi nunca da semillas. Su \"semilla\" son los dientes. Se eligen las cabezas más grandes y sanas de la cosecha y en la siembra se usan los dientes de afuera, que son los más grandes."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Cabezas enteras, en trenzas o en bolsas de red, colgadas en lugar seco y ventilado hasta la siembra de marzo."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Buenas compañeras",
+     "x": "Zanahoria, remolacha, lechuga, frutilla."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Habas y arvejas."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Ácaros, roya, podredumbre del bulbo."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "El ajo se reproduce de forma asexual. Cada diente que plantamos da una planta igual a la que le dio origen."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, color de la cáscara (blanca o morada), tamaño y cantidad de dientes por cabeza."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": ""
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": ""
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   3,
+   4,
+   5
+  ],
+  "parte": "bulbo",
+  "verbo": "siembra",
+  "usa": "Se come"
+ },
+ {
+  "n": "11",
+  "code": "48vuss",
+  "tipo": "Hortaliza",
+  "nombre": "HABA",
+  "cientifico": "Vicia faba",
+  "familia": "Familia Fabaceae",
+  "lamina": "Lámina de la Flora von Deutschland de O. W. Thomé (1885). Dominio público.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🍽️ ¿Qué comemos?",
+     "x": "Las semillas (granos) y, cuando están tiernas, las vainas enteras."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se siembra?",
+     "x": "De marzo a junio. Se cosecha en primavera."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Distancia",
+     "x": "20 a 25 cm entre plantas y 60 a 70 cm entre líneas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Moderado."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🧺 Cosecha",
+     "x": "En primavera, cuando las vainas están llenas y todavía verdes si se comen frescas, o secas si se guardan para semilla."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se siembra?",
+     "x": "Siembra directa a 4 o 5 cm de profundidad, porque no le gusta el trasplante."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "Se dejan en la planta las vainas de las mejores plantas hasta que se pongan negras y secas. Se desgranan y se dejan secar unos días más al aire."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Antes de guardarlas se ponen dos días en el freezer para evitar el gorgojo. Frasco rotulado, en lugar fresco y seco. Duran 3 a 5 años."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Buenas compañeras",
+     "x": "Lechuga, espinaca, papa."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Cebolla, ajo, puerro."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Pulgón negro en las puntas (se cortan las puntas cuando aparece), mancha chocolate en las hojas."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "En las raíces de las habas viven bacterias en pequeños bultitos (nódulos) que toman nitrógeno del aire. Por eso las habas mejoran la fertilidad del suelo."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, tamaño de las vainas y de los granos, cantidad de granos por vaina, color de la flor."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": ""
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": ""
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   3,
+   4,
+   5,
+   6
+  ],
+  "parte": "semillas y vainas",
+  "verbo": "siembra",
+  "usa": "Se come"
+ },
+ {
+  "n": "12",
+  "code": "qr7ph8",
+  "tipo": "Hortaliza",
+  "nombre": "APIO",
+  "cientifico": "Apium graveolens",
+  "familia": "Familia Apiaceae",
+  "lamina": "Lámina de la Flora von Deutschland de O. W. Thomé (1885). Dominio público.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🍽️ ¿Qué comemos?",
+     "x": "Las pencas (tallitos carnosos de las hojas) y las hojas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se siembra?",
+     "x": "Almácigo de agosto a octubre."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Distancia",
+     "x": "30 cm entre plantas y 40 a 50 cm entre líneas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Abundante. Es una de las hortalizas que más agua necesita."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🧺 Cosecha",
+     "x": "Entre los 4 y 5 meses después del trasplante. Se puede cosechar la planta entera o ir cortando pencas de afuera."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se siembra?",
+     "x": "En almácigo, con la semilla casi en superficie porque es muy fina. Tarda dos o tres semanas en nacer. Se trasplanta cuando tiene 4 o 5 hojas. Tolera muy bien el trasplante."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "Florece en su segundo año, en primavera y verano, y lo polinizan los insectos. Las umbelas se cortan cuando están secas y marrones y se sacuden sobre papel."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Frasco rotulado, en lugar fresco y oscuro. Duran 3 a 5 años."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Buenas compañeras",
+     "x": "Puerro, repollo, tomate."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Zanahoria, porque son de la misma familia y comparten plagas."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Pulgones, caracoles y babosas, manchas en las hojas."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "Lo que comemos del apio no es el tallo de la planta sino los pecíolos, es decir, la parte que une cada hoja con la planta."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, color de las pencas (verde oscuro, verde claro, blanquecino), grosor y largo de las pencas."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": ""
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": ""
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   8,
+   9,
+   10
+  ],
+  "parte": "pencas y hojas",
+  "verbo": "siembra",
+  "usa": "Se come"
+ },
+ {
+  "n": "13",
+  "code": "24ka5e",
+  "tipo": "Flor",
+  "nombre": "CALÉNDULA",
+  "cientifico": "Calendula officinalis",
+  "familia": "Familia Asteraceae",
+  "lamina": "Lámina de Köhler's Medizinal-Pflanzen (1887). Dominio público.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🍽️ ¿Qué comemos?",
+     "x": "Las flores. Se usan como medicinales y sus pétalos son comestibles en ensaladas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se siembra?",
+     "x": "De marzo a abril y de agosto a octubre."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Distancia",
+     "x": "25 a 30 cm entre plantas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Poco. Es una planta rústica."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🧺 Cosecha",
+     "x": "Florece a los dos meses y sigue casi todo el año. Si se cortan las flores marchitas, sigue dando flores nuevas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se siembra?",
+     "x": "Siembra directa o almácigo a 1 cm de profundidad."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "Se dejan secar algunas flores en la planta. Las semillas son curvas, como gusanitos, y se desprenden con la mano. Si se dejan caer, la caléndula se siembra sola."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Sobre de papel rotulado, en lugar fresco y seco. Duran unos 3 años."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Buenas compañeras",
+     "x": "Casi todas las hortalizas."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "No tiene enemigas conocidas en la huerta."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Pulgones, oídio (polvillo blanco en las hojas)."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "La caléndula es una gran aliada. Atrae abejas y otros insectos que comen plagas, y además atrae a los pulgones, que la prefieren antes que a las hortalizas."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, color de la flor (amarilla, naranja), si la flor es simple o doble, altura de la planta."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": ""
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": ""
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   3,
+   4,
+   8,
+   9,
+   10
+  ],
+  "parte": "flores",
+  "verbo": "siembra",
+  "usa": "Se come"
+ },
+ {
+  "n": "14",
+  "code": "zq5hdw",
+  "tipo": "Aromática",
+  "nombre": "ROMERO",
+  "cientifico": "Salvia rosmarinus",
+  "familia": "Familia Lamiaceae",
+  "lamina": "Lámina de Köhler's Medizinal-Pflanzen (1887). Dominio público.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "✋ ¿Qué usamos?",
+     "x": "Las hojas, frescas o secas, para cocinar y en preparados medicinales. Sus flores alimentan a las abejas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se planta?",
+     "x": "Se planta en primavera (septiembre a noviembre) o en otoño (marzo y abril). Por semilla nace con mucha dificultad, por eso se multiplica casi siempre por esquejes."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Distancia",
+     "x": "60 a 80 cm entre plantas, porque se convierte en un arbusto."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Poco. Es una planta rústica que no tolera el encharcamiento."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🧺 Cosecha",
+     "x": "Todo el año se pueden cortar ramitas, sin sacar nunca más de un tercio de la planta."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se planta?",
+     "x": "Por esquejes de 10 a 15 cm sacados de ramas jóvenes. Se quitan las hojas de abajo y se entierra la mitad del esqueje. Se puede usar agua de sauce como enraizante casero."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "Da pocas semillas y nacen con dificultad. Lo más seguro es tomar los esquejes de una planta madre sana, mejor a fines del verano o en otoño, cuando las ramas están semiduras."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Los esquejes se plantan enseguida. Si hay que esperar, se envuelven en papel húmedo a la sombra un día como máximo."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Buenas compañeras",
+     "x": "Zanahoria, repollo, habas, salvia."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Plantas que necesitan mucho riego, como el apio y la lechuga."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Exceso de agua (pudre las raíces), cochinillas."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "Durante mucho tiempo se llamó Rosmarinus officinalis. Estudios recientes mostraron que es pariente muy cercano de la salvia, y por eso hoy pertenece al mismo género, Salvia."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, forma de crecimiento (erguido o rastrero), color de la flor (celeste, azul, blanca), tamaño de las hojas."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": ""
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": ""
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   3,
+   4,
+   9,
+   10,
+   11
+  ],
+  "parte": "hojas",
+  "verbo": "planta",
+  "usa": "Se usa"
+ },
+ {
+  "n": "15",
+  "code": "x3bxry",
+  "tipo": "Aromática",
+  "nombre": "SALVIA",
+  "cientifico": "Salvia officinalis",
+  "familia": "Familia Lamiaceae",
+  "lamina": "Lámina de Köhler's Medizinal-Pflanzen (W. O. Müller, 1887). Dominio público.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "✋ ¿Qué usamos?",
+     "x": "Las hojas, para cocinar y en infusiones."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se planta?",
+     "x": "Almácigo de agosto a octubre, o por esquejes en primavera y otoño."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Distancia",
+     "x": "40 a 50 cm entre plantas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Moderado a poco. Prefiere suelos que no queden encharcados."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🧺 Cosecha",
+     "x": "Se cortan hojas durante todo el año, mejor antes de la floración, cuando tienen más aroma. Después de florecer conviene podarla para que rebrote."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se planta?",
+     "x": "La semilla va a medio centímetro de profundidad. Los esquejes se preparan igual que los del romero."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "Se dejan secar en la planta algunas varas florales. Cuando están marrones se sacuden dentro de una bolsa de papel."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Sobre de papel rotulado, en lugar fresco y seco. Duran 2 a 3 años."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Buenas compañeras",
+     "x": "Romero, repollo, zanahoria."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Plantas que necesitan mucho riego."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Exceso de humedad, oídio (polvillo blanco en las hojas), caracoles y babosas en las hojas tiernas."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "Su nombre viene de la palabra latina salvare, que significa sanar, porque desde la antigüedad se la usa como planta medicinal."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, color de las hojas (verde grisáceo, púrpura, con manchas de dos colores), tamaño y forma de la hoja."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": ""
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": ""
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   3,
+   4,
+   5,
+   8,
+   9,
+   10,
+   11
+  ],
+  "parte": "hojas",
+  "verbo": "planta",
+  "usa": "Se usa"
+ },
+ {
+  "n": "16",
+  "code": "8csure",
+  "tipo": "Aromática",
+  "nombre": "TOMILLO",
+  "cientifico": "Thymus vulgaris",
+  "familia": "Familia Lamiaceae",
+  "lamina": "Lámina de Köhler's Medizinal-Pflanzen (W. O. Müller, 1887). Dominio público.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "✋ ¿Qué usamos?",
+     "x": "Las hojas y las ramitas tiernas, para cocinar y en preparados medicinales."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se planta?",
+     "x": "Almácigo de agosto a octubre. También se multiplica por división de matas o por esquejes en primavera y otoño."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Distancia",
+     "x": "25 a 30 cm entre plantas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Poco. Necesita un suelo con buen drenaje."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🧺 Cosecha",
+     "x": "Antes y durante la floración, cortando las ramitas sin llegar a la parte leñosa."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se planta?",
+     "x": "La semilla es muy fina y va casi en superficie. Al dividir una mata, cada parte debe tener raíces."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "Las semillas son muy chiquitas. Se cortan las ramitas florecidas cuando están secas y se sacuden sobre un papel blanco para verlas."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Sobre de papel rotulado, en lugar fresco y seco. Duran 2 a 3 años."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Buenas compañeras",
+     "x": "Repollo, frutilla, romero."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Plantas que necesitan mucho riego."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Exceso de agua, ácaros."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "Sus flores atraen muchas abejas. Además, la planta tiene timol, una sustancia que ayuda a combatir hongos y bacterias."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, forma de crecimiento (erguido o rastrero), color de las hojas, aroma (común o alimonado)."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": ""
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": ""
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   3,
+   4,
+   5,
+   8,
+   9,
+   10,
+   11
+  ],
+  "parte": "hojas y ramitas",
+  "verbo": "planta",
+  "usa": "Se usa"
+ },
+ {
+  "n": "17",
+  "code": "taq734",
+  "tipo": "Aromática",
+  "nombre": "CEDRÓN",
+  "cientifico": "Aloysia citrodora",
+  "familia": "Familia Verbenaceae",
+  "lamina": "Lámina de Pierre-Joseph Redouté, con el antiguo nombre Verbena triphylla. Dominio público.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "✋ ¿Qué usamos?",
+     "x": "Las hojas, en infusiones de aroma a limón."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se planta?",
+     "x": "Se planta en primavera, de septiembre a noviembre."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Distancia",
+     "x": "1 a 1,5 m entre plantas, porque es un arbusto grande."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Moderado, un poco más en verano."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🧺 Cosecha",
+     "x": "Las hojas se cosechan en primavera y verano. Se secan a la sombra para guardar."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se planta?",
+     "x": "Por esquejes de ramas jóvenes o por plantines."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "En nuestro clima casi no da semillas que germinen. Se multiplica con esquejes de las puntas en primavera, tomados de una planta madre sana."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Los esquejes se plantan en el día y se mantienen a la sombra y con humedad hasta que enraízan."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Buenas compañeras",
+     "x": "Otras aromáticas y frutales."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "No tiene enemigas conocidas en la huerta."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Heladas (conviene proteger la base con cobertura en invierno), arañuela."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "El cedrón es nativo de Sudamérica. En invierno pierde las hojas y parece seco, pero en primavera vuelve a brotar."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, tamaño de la planta, forma y largo de las hojas, intensidad del aroma."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": ""
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": ""
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   9,
+   10,
+   11
+  ],
+  "parte": "hojas",
+  "verbo": "planta",
+  "usa": "Se usa"
+ },
+ {
+  "n": "18",
+  "code": "a9qgng",
+  "tipo": "Árbol",
+  "nombre": "SAUCE LLORÓN",
+  "cientifico": "Salix babylonica",
+  "familia": "Familia Salicaceae",
+  "lamina": "Lámina de Pierre-Joseph Redouté. Dominio público.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "✋ ¿Qué usamos?",
+     "x": "Las ramas jóvenes, para preparar agua de sauce, un enraizante casero. También da sombra y frescura."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se planta?",
+     "x": "A fines del invierno, en julio y agosto, antes de que broten las hojas."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Espacio",
+     "x": "Es un árbol grande. Conviene plantarlo a unos 10 m de construcciones y cañerías, porque sus raíces buscan el agua."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Abundante. Crece muy bien cerca de lagunas, arroyos y lugares húmedos."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "✂️ Poda y cuidados",
+     "x": "Poda de ramas secas o quebradas a fines del invierno."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se planta?",
+     "x": "Por estacas de ramas de un año, de 30 a 50 cm, enterradas hasta la mitad. Enraíza con mucha facilidad."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "No se reproduce por semilla en la huerta. Se multiplica por estacas."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Si las estacas no se plantan enseguida, se guardan paradas en un balde con agua o enterradas en arena húmeda."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🧪 Agua de sauce enraizante",
+     "x": "Sus ramas jóvenes tienen sustancias que estimulan la formación de raíces. Se cortan ramitas verdes en trozos de 2 o 3 cm, se cubren con agua y se dejan reposar uno o dos días. Luego se cuela y se sumerge la base de los esquejes unas horas antes de plantarlos."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Relación con la huerta",
+     "x": "Su enraizante ayuda a multiplicar aromáticas y otras plantas por esquejes."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Canteros de hortalizas muy cercanos, porque sus raíces compiten por el agua y su sombra es muy densa."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Pulgón del sauce, roya, ramas que se quiebran con viento fuerte."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "Su corteza tiene salicina, de la que se obtuvo el ácido salicílico, base de la aspirina. Aunque su nombre recuerda a Babilonia, es originario de China."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, forma de las ramas, color de la corteza, tamaño y forma de las hojas."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": ""
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": ""
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   7,
+   8
+  ],
+  "parte": "ramas jóvenes",
+  "verbo": "planta",
+  "usa": "Se usa"
+ },
+ {
+  "n": "19",
+  "code": "6855hb",
+  "tipo": "Árbol",
+  "nombre": "SAUCE ELÉCTRICO",
+  "cientifico": "Salix matsudana 'Tortuosa'",
+  "familia": "Familia Salicaceae",
+  "lamina": "Lámina elaborada a partir de fotografías de David J. Stang y Sally V (Wikimedia Commons, CC BY-SA 4.0), con filtro estilo lámina antigua. Se comparte con la misma licencia.",
+  "filas": [
+   [
+    {
+     "fill": "E6F8F1",
+     "t": "✋ ¿Qué usamos?",
+     "x": "Es un árbol ornamental. Sus ramas retorcidas se usan en arreglos y, como las de otros sauces, también sirven para preparar agua de sauce enraizante."
+    }
+   ],
+   [
+    {
+     "fill": "CDEEF8",
+     "t": "📅 ¿Cuándo se planta?",
+     "x": "A fines del invierno, en julio y agosto."
+    },
+    {
+     "fill": "CDEEF8",
+     "t": "📏 Espacio",
+     "x": "Árbol mediano, de 6 a 8 m de diámetro de copa. Conviene plantarlo lejos de construcciones y cañerías."
+    }
+   ],
+   [
+    {
+     "fill": "CDEEF8",
+     "t": "💧 Riego",
+     "x": "Moderado a abundante, sobre todo los primeros años."
+    },
+    {
+     "fill": "CDEEF8",
+     "t": "✂️ Poda y cuidados",
+     "x": "Poda de ramas secas o quebradas a fines del invierno."
+    }
+   ],
+   [
+    {
+     "fill": "CDEEF8",
+     "t": "🌱 ¿Cómo se planta?",
+     "x": "Por estacas de ramas de un año, enterradas hasta la mitad en suelo húmedo."
+    }
+   ],
+   [
+    {
+     "fill": "CDEEF8",
+     "t": "🌾 Semillas",
+     "x": "No se reproduce por semilla en la huerta. Se multiplica por estacas."
+    },
+    {
+     "fill": "CDEEF8",
+     "t": "🫙 Conservación",
+     "x": "Igual que el sauce llorón, en un balde con agua o en arena húmeda hasta plantarlas."
+    }
+   ],
+   [
+    {
+     "fill": "E6F8F1",
+     "t": "🤝 Relación con la huerta",
+     "x": "Da sombra y embellece el entorno de la escuela. Sus ramas pueden usarse como enraizante casero."
+    },
+    {
+     "fill": "FAD6E2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Canteros de hortalizas muy cercanos, porque sus raíces compiten por el agua."
+    }
+   ],
+   [
+    {
+     "fill": "FAD6E2",
+     "t": "🐛 Cuidado con",
+     "x": "Pulgones, roya, ramas quebradizas con viento fuerte."
+    }
+   ],
+   [
+    {
+     "fill": "FFDDBE",
+     "t": "💡 ¿Sabías que…?",
+     "x": "Le dicen sauce eléctrico porque sus ramas y sus hojas crecen retorcidas, en zigzag, como si estuvieran electrizadas. Es originario de China."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "FFDDBE",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, forma y grado de retorcimiento de las ramas, color de la corteza, altura del árbol."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": ""
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": ""
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   7,
+   8
+  ],
+  "parte": "ramas",
+  "verbo": "planta",
+  "usa": "Se usa"
+ },
+ {
+  "n": "20",
+  "code": "zsck2b",
+  "tipo": "Árbol",
+  "nombre": "AGUARIBAY",
+  "cientifico": "Schinus molle",
+  "familia": "Familia Anacardiaceae",
+  "lamina": "Ilustración de Megustanlasframbuesas, Wikimedia Commons, licencia CC BY-SA 4.0.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "✋ ¿Qué usamos?",
+     "x": "Los frutos rosados, conocidos como pimienta rosa, se usan como condimento. Sus hojas se usan en preparados para alejar insectos. También da sombra y sus flores alimentan a las abejas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se planta?",
+     "x": "En primavera."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Espacio",
+     "x": "Árbol grande, de 8 a 10 m de diámetro de copa."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Poco una vez que está establecido. Resiste muy bien la sequía."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "✂️ Poda y cuidados",
+     "x": "Poda de formación cuando es joven y poda de ramas secas a fines del invierno. Proteger las plantas jóvenes de las heladas fuertes."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se planta?",
+     "x": "Por semillas, que conviene dejar en remojo un día antes de sembrar, o por plantines."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "Hay plantas macho y plantas hembra, y solo las hembras dan las bolitas rosadas. Se juntan maduras en otoño e invierno, se les frota la cáscara rosada y se secan a la sombra."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Frasco rotulado, en lugar fresco y seco. Duran 2 a 3 años."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Relación con la huerta",
+     "x": "Atrae abejas durante la floración y sus hojas sirven para preparados repelentes de insectos."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Canteros de hortalizas muy cercanos, porque su sombra es amplia."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Heladas fuertes en plantas jóvenes, cochinillas."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "Es un árbol nativo de Sudamérica, también llamado gualeguay, molle o falso pimiento. La pimienta rosa no es pimienta verdadera, ya que pertenece a otra familia de plantas."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, altura y forma de la copa, si el ejemplar da frutos o no, color de los frutos."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": ""
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": ""
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   9,
+   10,
+   11
+  ],
+  "parte": "frutos y hojas",
+  "verbo": "planta",
+  "usa": "Se usa"
+ }
+]

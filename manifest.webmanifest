@@ -1,0 +1,16 @@
+{
+  "name": "Huerta C.E.P.T. N.° 30",
+  "short_name": "Huerta CEPT 30",
+  "description": "Fichas de la huerta agroecológica del C.E.P.T. N.° 30. Se abren escaneando el QR de cada cartel.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#C9F0E3",
+  "icons": [
+    { "src": "iconos/icono-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "iconos/icono-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "iconos/icono-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
