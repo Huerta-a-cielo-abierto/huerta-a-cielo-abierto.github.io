@@ -1,11 +1,11 @@
 // Guarda toda la app en el celular para que funcione sin internet.
 // Cuando se cambie algo, subir el número de VERSION para que los celulares bajen lo nuevo.
-var VERSION = 'huerta-v4';
+var VERSION = 'huerta-v5';
 var ARCHIVOS = [
   './', 'index.html', 'estilos.css', 'app.js', 'fichas.json', 'manifest.webmanifest',
   'vendor/jsQR.js', 'iconos/icono-180.png', 'iconos/icono-192.png', 'iconos/icono-512.png'
 ];
-for (var i = 1; i <= 20; i++) ARCHIVOS.push('laminas/' + (i < 10 ? '0' : '') + i + '.jpg');
+for (var i = 1; i <= 25; i++) ARCHIVOS.push('laminas/' + (i < 10 ? '0' : '') + i + '.jpg');
 
 self.addEventListener('install', function (e) {
   e.waitUntil(caches.open(VERSION).then(function (c) { return c.addAll(ARCHIVOS); }).then(function () { return self.skipWaiting(); }));

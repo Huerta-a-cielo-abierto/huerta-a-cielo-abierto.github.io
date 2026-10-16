@@ -2509,5 +2509,636 @@
   "parte": "frutos y hojas",
   "verbo": "planta",
   "usa": "Se usa"
+ },
+ {
+  "n": "21",
+  "code": "e2utyy",
+  "tipo": "Aromática",
+  "nombre": "PEREJIL",
+  "cientifico": "Petroselinum crispum",
+  "familia": "Familia Apiaceae",
+  "lamina": "Lámina de la Flora von Deutschland de O. W. Thomé (1885). Dominio público.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "✋ ¿Qué usamos?",
+     "x": "Las hojas, frescas o secas, para cocinar. Es rico en vitamina C y en hierro."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se siembra?",
+     "x": "De agosto a noviembre y de febrero a abril. Es lento para nacer y tarda entre 3 y 4 semanas."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Distancia",
+     "x": "15 a 20 cm entre plantas y 30 cm entre líneas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Regular, manteniendo el suelo húmedo, sobre todo mientras nace."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🧺 Cosecha",
+     "x": "A partir de los 70 a 90 días. Se cortan los tallos de afuera y la planta sigue rebrotando."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se siembra?",
+     "x": "En siembra directa o en almácigo, a 1 cm de profundidad. Dejar las semillas en remojo la noche anterior ayuda a que nazcan más rápido."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "Es bianual y florece en su segundo año, en primavera, con flores en umbela como la zanahoria. Se cortan las umbelas cuando las semillas se ponen marrones, se secan a la sombra y se frotan para separarlas."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Frasco de vidrio rotulado, en lugar fresco, seco y oscuro. Duran 2 a 3 años."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Buenas compañeras",
+     "x": "Tomate, cebolla, lechuga."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Zanahoria y apio, porque son de la misma familia y comparten plagas."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Pulgones, y caracoles y babosas cuando las plantitas son chicas."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "Si dejamos florecer algunas plantas, sus flores atraen vaquitas de San Antonio y avispitas que se comen los pulgones. Así el perejil ayuda a cuidar toda la huerta."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, forma de la hoja (lisa o crespa), color, aroma, tamaño de la planta."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": ""
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": ""
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   2,
+   3,
+   4,
+   8,
+   9,
+   10,
+   11
+  ],
+  "parte": "hojas",
+  "verbo": "siembra",
+  "usa": "Se usa"
+ },
+ {
+  "n": "22",
+  "code": "qukrfd",
+  "tipo": "Aromática",
+  "nombre": "ORÉGANO",
+  "cientifico": "Origanum vulgare",
+  "familia": "Familia Lamiaceae",
+  "lamina": "Lámina de la Flora von Deutschland de O. W. Thomé (1885). Dominio público.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "✋ ¿Qué usamos?",
+     "x": "Las hojas y las flores, secas o frescas, para condimentar las comidas y en infusiones. Sus flores atraen abejas y mariposas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se planta?",
+     "x": "Almácigo de agosto a octubre. También se multiplica por división de matas o por esquejes en primavera y en otoño."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Distancia",
+     "x": "30 a 40 cm entre plantas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Poco. No tolera el encharcamiento, y con poca agua su aroma es más fuerte."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🧺 Cosecha",
+     "x": "Al comienzo de la floración, en verano. Se cortan las ramas a unos 5 cm del suelo, se atan en ramitos y se secan a la sombra, colgados boca abajo."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se planta?",
+     "x": "La semilla es muy fina y va casi en superficie, apenas tapada. Al dividir una mata, cada parte debe tener raíces. Es una planta perenne que dura varios años."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "Las semillas son muy chiquitas. Se cortan las ramitas cuando las flores están secas y marrones, y se sacuden sobre un papel blanco. Las plantas nacidas de semilla pueden salir con menos aroma, por eso para conservar una planta muy rica conviene multiplicarla por división de matas."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Sobre de papel rotulado, en lugar fresco y seco. Duran 3 a 4 años."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Buenas compañeras",
+     "x": "Tomate, pimiento, repollo."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Plantas que necesitan mucho riego."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Exceso de agua, pulgones, arañuela roja."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "Su nombre viene del griego y significa algo así como \"alegría de la montaña\", porque crece en lugares altos y soleados."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, color de la flor (blanca, rosada o violeta), tamaño de las hojas, aroma (suave o fuerte), forma de crecimiento."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": ""
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": ""
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   3,
+   4,
+   8,
+   9,
+   10,
+   11
+  ],
+  "parte": "hojas y flores",
+  "verbo": "planta",
+  "usa": "Se usa"
+ },
+ {
+  "n": "23",
+  "code": "zv96th",
+  "tipo": "Hortaliza",
+  "nombre": "KALE",
+  "cientifico": "Brassica oleracea var. sabellica",
+  "familia": "Familia Brassicaceae",
+  "lamina": "Grabado de Vilmorin-Andrieux, Les plantes potagères (1904). Dominio público.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🍽️ ¿Qué comemos?",
+     "x": "Las hojas, crudas en ensalada o cocidas. Es muy nutritivo, con mucho calcio, hierro y vitaminas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se siembra?",
+     "x": "Almácigo de febrero a abril y de agosto a septiembre. Resiste muy bien el frío, y las heladas hasta le dan un sabor más dulce."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Distancia",
+     "x": "40 a 50 cm entre plantas y 50 a 60 cm entre líneas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Regular y parejo, sin encharcar."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🧺 Cosecha",
+     "x": "A partir de los 2 meses del trasplante. Se cortan las hojas de abajo hacia arriba y la planta sigue produciendo durante meses, hasta parecer una palmerita."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se siembra?",
+     "x": "En almácigo, a 1 cm de profundidad. Se trasplanta a la huerta cuando tiene 4 o 5 hojas verdaderas, más o menos a las 5 o 6 semanas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "Florece en su segundo año, en primavera, con flores amarillas. Se cruza fácilmente con el repollo, el brócoli y el coliflor, así que no conviene dejarlos florecer juntos. Se cortan las vainitas cuando se ponen marrones y secas, se terminan de secar a la sombra y se frotan para abrirlas."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Frasco de vidrio rotulado, en lugar fresco, seco y oscuro. Duran 4 a 5 años."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Buenas compañeras",
+     "x": "Cebolla, lechuga, apio, y aromáticas como el romero y la salvia."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Tomate y frutilla. Tampoco conviene sembrarlo donde el año anterior hubo repollo, rúcula o rabanito, porque comparten plagas."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Pulgón ceniciento, isoca de la mariposa blanca de la col, polilla del repollo."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "El kale, el repollo, el brócoli, el coliflor y el repollito de Bruselas son la misma especie. De cada uno se seleccionó una parte distinta de la planta."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, forma de la hoja (rizada, lisa o larga y arrugada tipo lacinato), color (verde o morado), altura de la planta."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": ""
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": ""
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   2,
+   3,
+   4,
+   8,
+   9
+  ],
+  "parte": "hojas",
+  "verbo": "siembra",
+  "usa": "Se come"
+ },
+ {
+  "n": "24",
+  "code": "tjbf23",
+  "tipo": "Hortaliza",
+  "nombre": "RÚCULA",
+  "cientifico": "Eruca vesicaria subsp. sativa",
+  "familia": "Familia Brassicaceae",
+  "lamina": "Lámina de G. Bonelli y N. Martelli, Hortus Romanus (siglo XVIII). Dominio público.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🍽️ ¿Qué comemos?",
+     "x": "Las hojas, crudas en ensaladas, con su sabor picantito. Las flores también se comen."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se siembra?",
+     "x": "De febrero a mayo y de agosto a octubre. Con calor florece enseguida y las hojas se ponen muy picantes."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Distancia",
+     "x": "10 cm entre plantas y 20 a 25 cm entre líneas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Frecuente, manteniendo el suelo húmedo. Si le falta agua se pone más picante."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🧺 Cosecha",
+     "x": "A los 30 o 40 días. Se cortan las hojas de afuera, o toda la planta a 3 cm del suelo para que rebrote."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se siembra?",
+     "x": "Siembra directa a chorrillo, a medio centímetro de profundidad, y después se ralea. Nace en pocos días. Conviene sembrar un poquito cada 2 o 3 semanas para tener siempre."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "Es anual y florece rápido, con flores blancas o cremitas con venitas violetas. Las vainitas se cosechan cuando se ponen color paja, antes de que se abran solas. Se secan a la sombra dentro de una bolsa de papel y se frotan."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Frasco de vidrio rotulado, en lugar fresco, seco y oscuro. Duran 3 a 4 años."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Buenas compañeras",
+     "x": "Lechuga, zanahoria, cebolla."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Repollo, kale y rabanito, porque son de la misma familia y comparten plagas."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Pulguilla (unos bichitos negros saltarines que hacen agujeritos en las hojas), pulgones, caracoles."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "La rúcula se cultiva desde hace más de dos mil años. Los antiguos romanos ya la comían en sus ensaladas."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, forma de la hoja (ancha o muy recortada), sabor (suave o picante), color de la flor, si florece rápido o tarde."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": ""
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": ""
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   2,
+   3,
+   4,
+   5,
+   8,
+   9,
+   10
+  ],
+  "parte": "hojas",
+  "verbo": "siembra",
+  "usa": "Se come"
+ },
+ {
+  "n": "25",
+  "code": "4x23xx",
+  "tipo": "Hortaliza",
+  "nombre": "ACHICORIA",
+  "cientifico": "Cichorium intybus",
+  "familia": "Familia Asteraceae",
+  "lamina": "Lámina de la Flora von Deutschland de O. W. Thomé (1885). Dominio público.",
+  "filas": [
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🍽️ ¿Qué comemos?",
+     "x": "Las hojas, de sabor amargo, crudas en ensalada o cocidas. Su raíz tostada se usó mucho tiempo para preparar una bebida parecida al café."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "📅 ¿Cuándo se siembra?",
+     "x": "De febrero a abril y de agosto a octubre. La siembra de fines del verano y otoño es la mejor, porque con mucho calor florece rápido."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "📏 Distancia",
+     "x": "15 a 20 cm entre plantas y 30 cm entre líneas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "💧 Riego",
+     "x": "Regular, sin encharcar."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🧺 Cosecha",
+     "x": "Entre los 50 y 70 días. Se cortan las hojas de afuera, o toda la planta a unos centímetros del suelo, y vuelve a rebrotar."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌱 ¿Cómo se siembra?",
+     "x": "En siembra directa a chorrillo o en almácigo, a 1 cm de profundidad. Después se ralea dejando las plantas más fuertes."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌾 Semillas",
+     "x": "Es perenne y florece en su segundo año, con flores celestes. Se cruza con la escarola, así que no conviene dejarlas florecer juntas. Las semillas quedan dentro de las cabecitas secas. Se cortan cuando están marrones, se secan a la sombra y se frotan."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🫙 Conservación",
+     "x": "Frasco de vidrio rotulado, en lugar fresco, seco y oscuro. Duran 4 a 5 años."
+    }
+   ],
+   [
+    {
+     "fill": "e6f8f1",
+     "t": "🤝 Buenas compañeras",
+     "x": "Zanahoria, cebolla, rabanito."
+    },
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Mejor lejos de",
+     "x": "Lechuga y escarola, porque son de la misma familia y comparten plagas."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🐛 Cuidado con",
+     "x": "Pulgones, caracoles y babosas, isocas cortadoras."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "Sus flores celestes se abren con el sol de la mañana y se cierran a la tarde. El botánico Linneo la usó en su famoso \"reloj de flores\"."
+    }
+   ]
+  ],
+  "variedad": {
+   "titulo": "🔍 VARIEDAD 2026",
+   "sub": "Investigación de los estudiantes de 1° año",
+   "fill": "ffddbe",
+   "campos": [
+    {
+     "k": "Nombre de la variedad",
+     "v": ""
+    },
+    {
+     "k": "Características observadas",
+     "v": "Pistas, forma de la hoja (lisa, dentada o tipo radicheta), color (verde o roja), sabor (más o menos amarga)."
+    },
+    {
+     "k": "Fecha de siembra o plantación",
+     "v": ""
+    },
+    {
+     "k": "Fuente de la información",
+     "v": ""
+    },
+    {
+     "k": "Estudiantes que investigaron",
+     "v": ""
+    }
+   ]
+  },
+  "pie": "🌻 Cada año sumamos las variedades que se siembran en nuestra huerta.",
+  "meses": [
+   2,
+   3,
+   4,
+   8,
+   9,
+   10
+  ],
+  "parte": "hojas",
+  "verbo": "siembra",
+  "usa": "Se come"
  }
 ]
