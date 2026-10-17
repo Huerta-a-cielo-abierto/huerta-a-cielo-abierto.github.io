@@ -6,7 +6,7 @@
   var contenido = document.getElementById('contenido');
   var fichas = [];
   var porCodigo = {};
-  var CLAVE_VISTAS = 'huerta-vistas';
+  var CLAVE_VISTAS = 'huerta-vistas-dia';
   var eventoInstalar = null;
   var NOMBRES_MES = ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto',
     'Septiembre', 'Octubre', 'Noviembre', 'Diciembre'];
@@ -21,15 +21,23 @@
     return fill && fill !== 'auto' ? '#' + fill : '#ffffff';
   }
 
-  // Fichas ya escaneadas en este celular
+  // Fichas escaneadas hoy en este celular (la lista vuelve a cero cada día)
+  function hoy() {
+    var d = new Date();
+    return d.getFullYear() + '-' + (d.getMonth() + 1) + '-' + d.getDate();
+  }
   function leerVistas() {
-    try { return JSON.parse(localStorage.getItem(CLAVE_VISTAS)) || []; } catch (e) { return []; }
+    try {
+      localStorage.removeItem('huerta-vistas');
+      var g = JSON.parse(localStorage.getItem(CLAVE_VISTAS));
+      return g && g.dia === hoy() && Array.isArray(g.codigos) ? g.codigos : [];
+    } catch (e) { return []; }
   }
   function guardarVista(codigo) {
     try {
       var v = leerVistas().filter(function (c) { return c !== codigo; });
       v.unshift(codigo);
-      localStorage.setItem(CLAVE_VISTAS, JSON.stringify(v.slice(0, 40)));
+      localStorage.setItem(CLAVE_VISTAS, JSON.stringify({ dia: hoy(), codigos: v.slice(0, 40) }));
     } catch (e) { /* sin almacenamiento, no pasa nada */ }
   }
 
@@ -125,7 +133,7 @@
     }
 
     if (vistas.length) {
-      h += '<section class="caja" style="background:var(--aqua-claro)"><h2>🌱 Las fichas que ya escaneaste</h2><ul class="vistas">';
+      h += '<section class="caja" style="background:var(--aqua-claro)"><h2>🌱 Las fichas que escaneaste hoy</h2><ul class="vistas">';
       vistas.forEach(function (c) {
         var f = porCodigo[c];
         h += '<li><a href="#' + esc(c) + '">' + esc(f.nombre) + ' <span>' + esc(f.cientifico) + '</span></a></li>';
