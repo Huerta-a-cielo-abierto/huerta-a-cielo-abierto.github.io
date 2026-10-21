@@ -141,7 +141,8 @@
       h += '</ul></section>';
     }
     h += '<section class="caja" style="background:var(--durazno-claro)"><h2>🌻 Sobre el proyecto</h2>' +
-      '<p>Estas fichas son parte del trabajo en la huerta del C.E.P.T. N.° 30 desde las materias Ciencias Naturales, Agrosistemas y P.I.C. de primer año, junto con los proyectos de la Plantinera Orgánica Comunitaria y la Biblioteca de semillas. Cada año, los estudiantes suman las variedades que se siembran.</p></section>';
+      '<p>Este es un proyecto de toda la escuela, en el que participan las cuatro áreas del C.E.P.T. N.° 30, el Área de Promoción de la Producción, el Área de Promoción de la Comunicación, el Área de Promoción de la Comunidad Rural y su Cultura y el Área de Promoción de un Medio Ambiente Sustentable, junto con la Plantinera orgánica comunitaria y la Biblioteca de semillas.</p>' +
+      '<p style="margin-top:10px">Detrás de cada cartel hay estudiantes de primer año que investigan, siembran y aprenden en esta huerta desde Ciencias Naturales, Agrosistemas, Inglés, Cuaderno de campo y P.I.C. Por eso cada ficha no muestra solo contenidos, también refleja lo que los estudiantes aportan día a día con su trabajo en la huerta de la escuela, cuando siembran, riegan, observan, registran y cuidan cada cultivo. Año tras año, cada grupo deja su huella sumando las variedades que se siembran.</p></section>';
     return h;
   }
 
