@@ -10,6 +10,9 @@
   --gris: #555555;
   --fondo: #FFFFFF;
   --borde: 1px solid #000000;
+  --aguamarina: #6FD3BC;
+  --verde: #3E6B2F;
+  --fucsia: #C2185B;
 }
 
 * { box-sizing: border-box; }
@@ -30,7 +33,7 @@ body {
   position: sticky;
   top: 0;
   z-index: 5;
-  background: var(--aqua);
+  background: var(--aguamarina);
   border-bottom: var(--borde);
   padding: calc(10px + env(safe-area-inset-top)) 16px 10px;
 }
@@ -149,8 +152,8 @@ main {
   padding: 12px 20px;
   border: 2px solid var(--tinta);
   border-radius: 999px;
-  background: var(--tinta);
-  color: #fff;
+  background: var(--aguamarina);
+  color: var(--tinta);
   font: inherit;
   font-weight: bold;
   text-decoration: none;
@@ -269,3 +272,43 @@ main {
 .leyenda { font-size: 15px; margin-top: 10px !important; }
 .tipo { font-size: 15px; margin: 0; }
 .escuela { font-size: 13px; margin: 2px 0 8px; }
+
+/* Portada de inicio, con los colores de los carteles */
+.inicio .caja { border-radius: 14px; }
+.ramita { display: block; width: 100%; height: auto; margin: -6px 0 -2px; }
+.ramita.abajo { transform: scaleY(-1); margin: 4px 0 0; }
+.carrusel {
+  position: relative;
+  aspect-ratio: 1 / 1;
+  border: 3px solid var(--verde);
+  border-radius: 18px;
+  overflow: hidden;
+  margin: 0 0 14px;
+  background: var(--aqua-claro);
+}
+.carrusel img {
+  position: absolute; inset: 0;
+  width: 100%; height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity 1s ease;
+}
+.carrusel img.activa { opacity: 1; }
+.puntos { position: absolute; left: 0; right: 0; bottom: 10px; text-align: center; }
+.puntos span {
+  display: inline-block; width: 9px; height: 9px; margin: 0 4px;
+  border-radius: 50%; background: #fff; opacity: .7;
+  box-shadow: 0 0 2px rgba(0,0,0,.5);
+}
+.puntos span.on { background: var(--fucsia); opacity: 1; }
+.inicio .bienvenida {
+  background: #fff;
+  border: 6px solid var(--verde);
+  border-radius: 22px;
+  box-shadow: inset 0 0 0 6px #fff, inset 0 0 0 8.5px var(--fucsia);
+  padding: 20px 18px;
+}
+.inicio .bienvenida h1 { color: var(--verde); }
+.inicio .sobre { background: var(--durazno-claro); border: 3px solid var(--fucsia); text-align: center; }
+.inicio .sobre h2 { color: var(--fucsia); }
+@media (prefers-reduced-motion: reduce) { .carrusel img { transition: none; } }

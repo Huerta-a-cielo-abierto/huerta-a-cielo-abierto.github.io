@@ -7,6 +7,8 @@
   var fichas = [];
   var porCodigo = {};
   var CLAVE_VISTAS = 'huerta-vistas-dia';
+  var FOTOS = 9;
+  var relojCarrusel = null;
   var eventoInstalar = null;
   var NOMBRES_MES = ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto',
     'Septiembre', 'Octubre', 'Noviembre', 'Diciembre'];
@@ -108,7 +110,15 @@
     var vistas = leerVistas().filter(function (c) { return porCodigo[c]; });
     var esIOS = /iphone|ipad|ipod/i.test(navigator.userAgent);
     var instalada = window.matchMedia('(display-mode: standalone)').matches || navigator.standalone;
-    var h = '';
+    var h = '<div class="inicio">';
+    h += '<img class="ramita" src="iconos/ramita.svg" alt="">';
+    h += '<div class="carrusel" id="carrusel" aria-label="Fotos de la huerta">';
+    for (var i = 1; i <= FOTOS; i++) {
+      h += '<img src="fotos/0' + i + '.jpg" alt="Foto de la huerta del C.E.P.T. N.° 30"' + (i === 1 ? ' class="activa"' : ' loading="lazy"') + '>';
+    }
+    h += '<div class="puntos">';
+    for (var j = 1; j <= FOTOS; j++) h += '<span' + (j === 1 ? ' class="on"' : '') + '></span>';
+    h += '</div></div>';
     h += '<section class="caja bienvenida">';
     h += '<h1>Bienvenidos a la huerta 🌿</h1>';
     h += '<p>Escaneá el código QR de un cartel de la huerta y vas a ver la ficha de esa especie.</p>';
@@ -140,9 +150,11 @@
       });
       h += '</ul></section>';
     }
-    h += '<section class="caja" style="background:var(--durazno-claro)"><h2>🌻 Sobre el proyecto</h2>' +
+    h += '<section class="caja sobre"><h2>🌻 Sobre el proyecto</h2>' +
       '<p>Este es un proyecto de toda la escuela, en el que participan las cuatro áreas del C.E.P.T. N.° 30, el Área de Promoción de la Producción, el Área de Promoción de la Comunicación, el Área de Promoción de la Comunidad Rural y su Cultura y el Área de Promoción de un Medio Ambiente Sustentable, junto con la Plantinera orgánica comunitaria y la Biblioteca de semillas.</p>' +
-      '<p style="margin-top:10px">Detrás de cada cartel hay estudiantes de primer año que investigan, siembran y aprenden en esta huerta desde Ciencias Naturales, Agrosistemas, Inglés, Cuaderno de campo y P.I.C. Por eso cada ficha no muestra solo contenidos, también refleja lo que los estudiantes aportan día a día con su trabajo en la huerta de la escuela, cuando siembran, riegan, observan, registran y cuidan cada cultivo. Año tras año, cada grupo deja su huella sumando las variedades que se siembran.</p></section>';
+      '<p>Este proyecto nace del trabajo integrado y en articulación de las materias Ciencias Naturales, Agrosistemas, Inglés, Cuaderno de campo y P.I.C. de primer año. Detrás de cada cartel hay estudiantes que investigan, siembran y aprenden en esta huerta. Por eso cada ficha no muestra solo contenidos, también refleja lo que los estudiantes aportan día a día con su trabajo en la huerta de la escuela, cuando siembran, riegan, observan, registran y cuidan cada cultivo. Año tras año, cada grupo deja su huella sumando las variedades que se siembran.</p></section>';
+    h += '<img class="ramita abajo" src="iconos/ramita.svg" alt="">';
+    h += '</div>';
     return h;
   }
 
@@ -154,8 +166,10 @@
   function mostrar() {
     var codigo = decodeURIComponent(location.hash.replace(/^#\/?/, '')).trim().toLowerCase();
     var f = porCodigo[codigo];
+    if (relojCarrusel) { clearInterval(relojCarrusel); relojCarrusel = null; }
     if (!codigo) {
       contenido.innerHTML = verInicio();
+      iniciarCarrusel();
       document.title = 'Huerta C.E.P.T. N.° 30';
       actualizarEstado();
       prepararInstalar();
@@ -167,6 +181,32 @@
       contenido.innerHTML = verNoEncontrada();
     }
     window.scrollTo(0, 0);
+  }
+
+  // Carrusel de fotos de la huerta
+  function iniciarCarrusel() {
+    var c = document.getElementById('carrusel');
+    if (!c) return;
+    var fotos = c.querySelectorAll('img');
+    var puntos = c.querySelectorAll('.puntos span');
+    var actual = 0;
+    function ir(n) {
+      fotos[actual].classList.remove('activa'); puntos[actual].classList.remove('on');
+      actual = (n + fotos.length) % fotos.length;
+      fotos[actual].classList.add('activa'); puntos[actual].classList.add('on');
+    }
+    function reiniciar() {
+      if (relojCarrusel) clearInterval(relojCarrusel);
+      relojCarrusel = setInterval(function () { ir(actual + 1); }, 4500);
+    }
+    var x0 = null;
+    c.addEventListener('touchstart', function (e) { x0 = e.touches[0].clientX; }, { passive: true });
+    c.addEventListener('touchend', function (e) {
+      if (x0 === null) return;
+      var dx = e.changedTouches[0].clientX - x0; x0 = null;
+      if (Math.abs(dx) > 40) { ir(actual + (dx < 0 ? 1 : -1)); reiniciar(); }
+    });
+    reiniciar();
   }
 
   // Estado sin conexión
