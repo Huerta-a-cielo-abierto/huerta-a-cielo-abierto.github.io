@@ -3307,5 +3307,93 @@
     }
    ]
   ]
+ },
+ {
+  "n": "28",
+  "code": "xypvbr",
+  "sector": "aliados",
+  "tipo": "Control biológico",
+  "nombre": "SAPIARIO",
+  "cientifico": "Refugio para sapos",
+  "familia": "Proyecto del Área de Promoción de la Producción",
+  "lamina_titulo": "📷 Así es nuestro sapiario",
+  "lamina": "Foto del sapiario de la huerta del C.E.P.T. N.° 30, octubre de 2026.",
+  "filas": [
+   [
+    {
+     "fill": "f1ecfa",
+     "t": "🏡 ¿Qué es?",
+     "x": "Un pequeño estanque con refugios a su alrededor, pensado para que los sapos tengan agua donde reproducirse y lugares donde esconderse cerca de la huerta."
+    }
+   ],
+   [
+    {
+     "fill": "f1ecfa",
+     "t": "🎯 ¿Para qué sirve?",
+     "x": "El sapo común es considerado un importante controlador biológico, porque se alimenta de muchos insectos que dañan los cultivos. Tenerlo cerca ayuda a cuidar la huerta sin usar venenos."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🧱 ¿Cómo está armado?",
+     "x": "Es un pozo poco profundo cubierto con nylon negro para que retenga el agua. Adentro tiene cubiertas viejas y cajones reciclados con plantas que dan sombra, y al costado un montículo de piedras donde los sapos se esconden. Los bordes con pasto les permiten entrar y salir del agua."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🐸 ¿Quién vive acá?",
+     "x": "El sapo común (Rhinella arenarum), que vive en casi todo el país, incluida la provincia de Buenos Aires. Tiene la piel del lomo gruesa, seca y con aspecto de verrugas, que en realidad son grupos de glándulas. Los adultos comen sobre todo hormigas y escarabajos, y también lombrices."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🥚 Ciclo de vida",
+     "x": "La hembra pone sus huevos en el agua, en largos cordones gelatinosos con los huevitos oscuros en dos filas, pegados a objetos sumergidos. Puede poner hasta 40.000. De ellos nacen los renacuajos, que comen algas y restos de plantas. Al terminar la metamorfosis los sapitos miden apenas unos 12 mm."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🌙 ¿Cuándo están activos?",
+     "x": "Son sobre todo nocturnos y pasan gran parte del año escondidos bajo piedras o bajo tierra. Hibernan de junio a agosto. Son de los primeros anfibios en reproducirse, desde agosto o septiembre y hasta abril, sobre todo después de las lluvias fuertes."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Cuidado con",
+     "x": "Los agroquímicos, que en huevos y renacuajos de sapo pueden causar malformaciones y retrasar su crecimiento, la basura que cae al agua, el nylon roto y llevarse sapos o renacuajos del lugar."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "👀 ¿Qué podemos observar?",
+     "x": "Cordones de huevos en el agua, renacuajos en distintas etapas y sapos escondidos entre las piedras. Se observa sin sacar los animales del agua."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "Detrás de los ojos el sapo tiene unas glándulas que fabrican una sustancia para defenderse. No puede escupirla ni inyectarla, y sobre la piel sana no hace daño, pero es tóxica si se traga o si llega a los ojos, la boca o una herida. Por eso hay que lavarse las manos después de tocarlo y cuidar que los perros no lo muerdan."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "🗓️ Acondicionamiento anual",
+     "x": "Una vez por año, en mayo, cuando ya terminó la época de reproducción y antes de que los sapos hibernen, se hace la revisión general. Se saca la basura del agua, se revisa y se repara el nylon y se reacomodan las piedras y los refugios.\nDe junio a agosto los sapos hibernan escondidos bajo piedras o bajo tierra, por eso no se mueven las piedras ni se remueve la tierra alrededor del sapiario.\nDe agosto a abril es la época de reproducción. Hay que mantener estable el nivel del agua, porque si baja de golpe los cordones de huevos se secan, y no tocar los huevos ni los renacuajos. Nunca se tira al agua jabón, lavandina ni productos químicos."
+    }
+   ],
+   [
+    {
+     "fill": "ffffff",
+     "t": "📚 Fuentes consultadas",
+     "x": "Fundación Miguel Lillo (2020). Rhinella arenarum. Revista Universo Tucumano 58. San Miguel de Tucumán.\nUniversidad Nacional del Litoral y CONICET (2020). Evalúan los efectos de agroquímicos y antibióticos en anfibios. Laboratorio de Ecotoxicología, FBCB."
+    }
+   ]
+  ]
  }
 ]
