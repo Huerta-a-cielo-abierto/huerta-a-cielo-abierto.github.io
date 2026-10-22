@@ -50,9 +50,12 @@
 
   function verFicha(f) {
     var h = '';
-    h += '<section class="caja encabezado">';
-    h += '<p class="tipo">' + esc(f.tipo) + '</p><p class="escuela">Huerta agroecológica · C.E.P.T. N.° 30</p>';
-    h += '<h1 class="nombre">' + esc(f.nombre) + '</h1>';
+    var aliado = f.sector === 'aliados';
+    h += '<section class="caja encabezado' + (aliado ? ' aliados' : '') + '">';
+    h += '<p class="tipo">' + esc(f.tipo) + '</p><p class="escuela">' +
+      (aliado ? '🐞 Aliados de la huerta · C.E.P.T. N.° 30' : 'Huerta agroecológica · C.E.P.T. N.° 30') + '</p>';
+    var largo = Math.max.apply(null, f.nombre.split(' ').map(function (p) { return p.length; }));
+    h += '<h1 class="nombre"' + (largo > 11 ? ' style="font-size:clamp(24px,7.5vw,38px)"' : '') + '>' + esc(f.nombre) + '</h1>';
     if (f.cientifico) h += '<p class="cientifico">' + esc(f.cientifico) + '</p>';
     if (f.familia) h += '<p class="familia">' + esc(f.familia) + '</p>';
     var mesActual = new Date().getMonth() + 1;
@@ -77,8 +80,8 @@
         '</b>' + (esEpoca ? ', así que <b>es época</b> 🌱' : ', todavía no es época.') + '</p></section>';
     }
 
-    h += '<section class="caja lamina"><h2>🔬 Lámina botánica</h2>';
-    h += '<img src="laminas/' + esc(f.n) + '.jpg" alt="Lámina botánica de ' + esc(f.nombre.toLowerCase()) + '" loading="lazy">';
+    h += '<section class="caja lamina"><h2>' + esc(f.lamina_titulo || '🔬 Lámina botánica') + '</h2>';
+    h += '<img src="laminas/' + esc(f.n) + '.jpg" alt="' + (f.lamina_titulo ? 'Foto' : 'Lámina botánica') + ' de ' + esc(f.nombre.toLowerCase()) + '" loading="lazy">';
     if (f.lamina) h += '<p class="credito">' + esc(f.lamina) + '</p>';
     h += '</section>';
 
@@ -167,6 +170,7 @@
     var codigo = decodeURIComponent(location.hash.replace(/^#\/?/, '')).trim().toLowerCase();
     var f = porCodigo[codigo];
     if (relojCarrusel) { clearInterval(relojCarrusel); relojCarrusel = null; }
+    document.body.classList.toggle('sector-aliados', !!(f && f.sector === 'aliados'));
     if (!codigo) {
       contenido.innerHTML = verInicio();
       iniciarCarrusel();

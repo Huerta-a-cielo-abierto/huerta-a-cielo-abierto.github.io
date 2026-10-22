@@ -13,6 +13,8 @@
   --aguamarina: #6FD3BC;
   --verde: #3E6B2F;
   --fucsia: #C2185B;
+  --lila: #E4DAF5;
+  --lila-fuerte: #B9A3E3;
 }
 
 * { box-sizing: border-box; }
@@ -312,3 +314,7 @@ main {
 .inicio .sobre { background: var(--durazno-claro); border: 3px solid var(--fucsia); text-align: center; }
 .inicio .sobre h2 { color: var(--fucsia); }
 @media (prefers-reduced-motion: reduce) { .carrusel img { transition: none; } }
+
+/* Sector Aliados de la huerta (hotel de insectos y otros) */
+.encabezado.aliados { background: var(--lila); }
+body.sector-aliados .barra { background: var(--lila-fuerte); }

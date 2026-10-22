@@ -3140,5 +3140,98 @@
   "parte": "hojas",
   "verbo": "siembra",
   "usa": "Se come"
+ },
+ {
+  "n": "26",
+  "code": "fne51v",
+  "sector": "aliados",
+  "tipo": "Control biológico",
+  "nombre": "HOTEL DE INSECTOS",
+  "cientifico": "Refugio para insectos benéficos",
+  "familia": "Proyecto del Área de Promoción de la Producción",
+  "lamina_titulo": "📷 Así es nuestro hotel",
+  "lamina": "Foto del hotel de insectos de la huerta del C.E.P.T. N.° 30, octubre de 2026.",
+  "filas": [
+   [
+    {
+     "fill": "f1ecfa",
+     "t": "🏡 ¿Qué es?",
+     "x": "Una estructura armada con materiales naturales, como madera, cañas y piñas, que ofrece huecos de distintos tamaños para que diferentes insectos hagan sus nidos. Algunos solo la usan como refugio durante las tormentas o los cambios bruscos de temperatura."
+    }
+   ],
+   [
+    {
+     "fill": "f1ecfa",
+     "t": "🎯 ¿Para qué sirve?",
+     "x": "Ayuda a que haya más biodiversidad en la huerta y favorece la polinización. También da refugio a los insectos benéficos, que se alimentan de los insectos que dañan las verduras. Cuidar la huerta con la ayuda de otros seres vivos se llama control biológico."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🧱 ¿Cómo está armado?",
+     "x": "Tiene un techo de chapa a dos aguas que lo protege de la lluvia, atado arriba con alambre. En la parte alta hay piñas y ramitas, en el medio cañas huecas y troncos apoyados sobre un estante de madera, y abajo una jaula de malla con tejas, cortezas y más piñas. Cada material ofrece un tipo de hueco distinto."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🐝 Abejas solitarias",
+     "x": "Casi 9 de cada 10 especies de abejas son solitarias. No forman colmenas ni producen miel. Cada hembra arma su propio nido y cría sola a sus hijos. Algunas, como las abejas cortadoras de hojas, usan huecos como los de las cañas y protegen sus huevos con trocitos de pétalos. Son muy importantes como polinizadoras."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🐞 Vaquitas de San Antonio",
+     "x": "En la Argentina hay unas 125 especies. Las benéficas comen pulgones, huevos de orugas, ácaros y trips. Hay que tener en cuenta que no todas las vaquitas son benéficas, algunas se alimentan de las plantas."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🦋 Crisopas",
+     "x": "Son insectos benéficos de alas transparentes. Sus larvas son cazadoras muy activas que comen pulgones, ácaros, moscas blancas y huevos y larvas chiquitas de otros insectos."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🪲 Tijeretas",
+     "x": "Son de actividad nocturna y comen de todo, sobre todo restos de plantas, pero también pulgones. Por eso pueden ayudar a controlarlos. De día se esconden en lugares oscuros y húmedos, como la parte baja del hotel."
+    }
+   ],
+   [
+    {
+     "fill": "f1ecfa",
+     "t": "🌼 Para que se queden",
+     "x": "Necesitan flores que les den polen y néctar. Conviene dejar florecer algunas plantas de apio, perejil, acelga e hinojo, poner caléndulas en la cabecera de los canteros y tener aromáticas como salvia, romero y orégano."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🚫 Cuidado con",
+     "x": "Los insecticidas y otros productos químicos, que matan también a los insectos que nos ayudan, y la lluvia y la humedad, que pudren los materiales si el techo no los protege."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "Según el INTA, una sola vaquita de San Antonio puede comerse entre 1.000 y 2.400 pulgones a lo largo de su vida."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "🗓️ Acondicionamiento anual",
+     "x": "Una vez por año, a fines del invierno (agosto), antes de que los insectos vuelvan a estar activos en primavera, se hace la revisión general. Se reponen las cañas rotas o vacías, se cambian las maderas podridas y se ajustan la chapa y el alambre del techo.\nLas cañas que están tapadas no se sacan ni se abren, porque adentro siguen los huevos y las crías.\nEn otoño (marzo o abril) se revisa que el techo esté firme antes de las lluvias y el frío.\nDe septiembre a marzo, mientras los insectos están activos, alcanza con mantener flores cerca y no usar productos químicos alrededor del hotel."
+    }
+   ],
+   [
+    {
+     "fill": "ffffff",
+     "t": "📚 Fuentes consultadas",
+     "x": "INTA (2020). Insectos benéficos, aliados para controlar plagas en algodón. Argentina.gob.ar.\nINTA, Programa Pro Huerta (2008). La huerta orgánica. 3.a edición. Coordinación de Roberto Cittadini. Páginas 42 a 44.\nVázquez, D. y Pascual, M. (2024). Trampas nido y hoteles para insectos. CONICET Mendoza.\nCañellas, N., Piñol, J. y Espadaler, X. (2005). Las tijeretas (Dermaptera, Forficulidae) en el control del pulgón en cítricos. Boletín de Sanidad Vegetal Plagas 31, 161 a 169. Ministerio de Agricultura de España.\nUNAM Global (2026). Las abejas solitarias y la importancia del suelo para su conservación. Universidad Nacional Autónoma de México."
+    }
+   ]
+  ]
  }
 ]
