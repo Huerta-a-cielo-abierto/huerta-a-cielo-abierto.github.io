@@ -3233,5 +3233,79 @@
     }
    ]
   ]
+ },
+ {
+  "n": "27",
+  "code": "p5oz21",
+  "sector": "aliados",
+  "tipo": "Protección del cultivo",
+  "nombre": "ESPANTAPÁJAROS",
+  "cientifico": "Guardiana de la huerta",
+  "familia": "Proyecto del Área de Promoción de la Comunicación",
+  "lamina_titulo": "📷 Así es nuestro espantapájaros",
+  "lamina": "Foto del espantapájaros de la huerta del C.E.P.T. N.° 30, octubre de 2026.",
+  "filas": [
+   [
+    {
+     "fill": "f1ecfa",
+     "t": "🏡 ¿Qué es?",
+     "x": "Un muñeco con forma de persona que se coloca en la huerta para alejar a las aves de los cultivos. La nuestra es una espantapájaros mujer que cuida los canteros de lechuga y caléndula."
+    }
+   ],
+   [
+    {
+     "fill": "fad6e2",
+     "t": "🎭 Una figura del campo",
+     "x": "El espantapájaros es parte de la tradición rural y le da identidad a la huerta. El nuestro lo hizo el Área de Promoción de la Comunicación del C.E.P.T. N.° 30."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "💡 ¿Sabías que…?",
+     "x": "En 1932 el poeta argentino Oliverio Girondo presentó su libro Espantapájaros con un muñeco de papel maché de casi tres metros. Lo paseó durante 15 días por las calles de Buenos Aires en una carroza tirada por seis caballos, y en un mes se vendieron unos 5000 libros."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🧱 ¿Cómo está armado?",
+     "x": "Tiene una estructura de madera en forma de cruz. La cabeza es una cara amarilla con los ojos pintados, un pañuelo atado y un pelo de paja que se mueve con el viento. Está vestida con un vestido amarillo floreado y un saquito marrón, y de uno de sus brazos cuelga una bolsa de tela. Está hecha con ropa y materiales reutilizados."
+    }
+   ],
+   [
+    {
+     "fill": "cdeef8",
+     "t": "🐦 ¿Quiénes visitan la huerta?",
+     "x": "Cotorras, palomas y tordos. Vienen sobre todo en invierno y buscan las plantas chiquitas, en especial la lechuga, la acelga y las habas."
+    },
+    {
+     "fill": "cdeef8",
+     "t": "🤝 Trabaja en equipo",
+     "x": "El espantapájaros asusta a las aves sobre todo cuando es nuevo para ellas. Por eso en la huerta lo acompañamos con malla antipájaros o hilos finos sobre los canteros recién sembrados, que se sacan cuando las plantas ya están grandes."
+    }
+   ],
+   [
+    {
+     "fill": "f1ecfa",
+     "t": "🌾 Las aves también ayudan",
+     "x": "Las aves comen semillitas de malezas y algunos insectos. Por eso la idea es cuidar los cultivos sin lastimarlas."
+    }
+   ],
+   [
+    {
+     "fill": "ffddbe",
+     "t": "🗓️ Acondicionamiento anual",
+     "x": "Una vez por año, en otoño (marzo o abril), antes del invierno que es cuando más aves visitan la huerta, se revisa el espantapájaros. Se refuerza la estructura, se arregla o se cambia la ropa gastada y se controla que quede bien firme frente al viento.\nCuando haya canteros recién sembrados se suma la malla antipájaros."
+    }
+   ],
+   [
+    {
+     "fill": "ffffff",
+     "t": "📚 Fuentes consultadas",
+     "x": "INTA, Programa Prohuerta AMBA (2020). Consejos para proteger la huerta de las aves. Nota de Bichos de Campo, 11 de mayo de 2020.\nRodríguez, E. N. y Zaccagnini, M. E. (1998). Manual de capacitación sobre manejo integrado de aves perjudiciales a la agricultura. FAO y Ministerio de Ganadería, Agricultura y Pesca de Uruguay.\nMinisterio de Cultura de la Nación. El espantapájaros de Girondo y una historia curiosa."
+    }
+   ]
+  ]
  }
 ]
