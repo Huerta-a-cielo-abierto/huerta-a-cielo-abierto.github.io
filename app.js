@@ -10,6 +10,7 @@
   var FOTOS = 9;
   var relojCarrusel = null;
   var eventoInstalar = null;
+  var reintento = false;
   var NOMBRES_MES = ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto',
     'Septiembre', 'Octubre', 'Noviembre', 'Diciembre'];
 
@@ -183,6 +184,10 @@
       guardarVista(codigo);
     } else {
       contenido.innerHTML = verNoEncontrada();
+      if (!reintento && navigator.onLine) {
+        reintento = true;
+        cargarFichas().catch(function () {});
+      }
     }
     window.scrollTo(0, 0);
   }
@@ -327,13 +332,23 @@
     });
   }
 
-  fetch('fichas.json')
-    .then(function (r) { return r.json(); })
-    .then(function (data) {
-      fichas = data;
-      fichas.forEach(function (f) { porCodigo[f.code] = f; });
-      mostrar();
-    })
+  function cargarFichas() {
+    return fetch('fichas.json', { cache: 'no-store' })
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        fichas = data;
+        porCodigo = {};
+        fichas.forEach(function (f) { porCodigo[f.code] = f; });
+        mostrar();
+      });
+  }
+
+  // Si la app se actualiza mientras está abierta, vuelve a leer las fichas
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.addEventListener('controllerchange', function () { cargarFichas().catch(function () {}); });
+  }
+
+  cargarFichas()
     .catch(function () {
       contenido.innerHTML = '<section class="caja" style="background:var(--rosa)"><p>No se pudieron cargar las fichas. Abrí la app una vez con internet para que se guarden en el celular.</p></section>';
     });
