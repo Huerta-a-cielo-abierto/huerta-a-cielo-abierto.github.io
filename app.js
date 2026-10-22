@@ -187,6 +187,15 @@
       if (!reintento && navigator.onLine) {
         reintento = true;
         cargarFichas().catch(function () {});
+        // Si sigue sin aparecer, actualiza la app guardada y recarga una sola vez
+        setTimeout(function () {
+          var clave = 'huerta-recarga-' + codigo;
+          var yaRecargo = false;
+          try { yaRecargo = sessionStorage.getItem(clave); sessionStorage.setItem(clave, '1'); } catch (e) { yaRecargo = true; }
+          if (porCodigo[codigo] || yaRecargo || !('serviceWorker' in navigator)) return;
+          navigator.serviceWorker.getRegistration().then(function (reg) { return reg && reg.update(); })
+            .catch(function () {}).then(function () { setTimeout(function () { location.reload(); }, 1500); });
+        }, 2500);
       }
     }
     window.scrollTo(0, 0);
