@@ -318,3 +318,7 @@ main {
 /* Sector Aliados de la huerta (hotel de insectos y otros) */
 .encabezado.aliados { background: var(--lila); }
 body.sector-aliados .barra { background: var(--lila-fuerte); }
+
+/* Logo del C.E.P.T. en la barra */
+.barra-titulo { display: flex; align-items: center; gap: 8px; }
+.logo-barra { height: 34px; width: auto; flex: none; }
