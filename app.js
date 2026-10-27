@@ -130,22 +130,6 @@
     h += '</section>';
     h += botonEscanear(false);
 
-    if (!instalada) {
-      h += '<section class="caja" style="margin-top:14px;background:var(--celeste)"><h2>📲 Instalá la app</h2>';
-      if (esIOS) {
-        h += '<p>En el iPhone, abrí esta página con <b>Safari</b>.</p><ol class="pasos">' +
-          '<li>Tocá el botón <b>Compartir</b> (el cuadradito con la flecha).</li>' +
-          '<li>Elegí <b>Agregar a pantalla de inicio</b>.</li>' +
-          '<li>Tocá <b>Agregar</b>.</li></ol>';
-      } else {
-        h += '<p>Instalala una sola vez, con internet, y después funciona en la huerta aunque no haya señal.</p>';
-        h += '<p style="margin-top:10px"><button class="boton boton-claro boton-ancho" type="button" id="instalar"' +
-          (eventoInstalar ? '' : ' hidden') + '>Instalar la app</button></p>';
-        h += '<p id="instalar-ayuda"' + (eventoInstalar ? ' hidden' : '') + '>Si no aparece el botón, tocá los tres puntitos del navegador y elegí <b>Instalar aplicación</b> o <b>Agregar a pantalla principal</b>.</p>';
-      }
-      h += '</section>';
-    }
-
     h += '<section class="caja sobre"><h2>🌻 Sobre el proyecto</h2>' +
       '<p>Este es un proyecto de toda la escuela, en el que participan las cuatro áreas del C.E.P.T. N.° 30, el Área de Promoción de la Producción, el Área de Promoción de la Comunicación, el Área de Promoción de la Comunidad Rural y su Cultura y el Área de Promoción de un Medio Ambiente Sustentable, junto con la Plantinera orgánica comunitaria y la Biblioteca de semillas.</p>' +
       '<p>Este proyecto nace del trabajo integrado y en articulación de las materias Ciencias Naturales, Agrosistemas, Inglés, Cuaderno de campo y P.I.C. de primer año. Detrás de cada cartel hay estudiantes que investigan, siembran y aprenden en esta huerta. Por eso cada ficha no muestra solo contenidos, también refleja lo que los estudiantes aportan día a día con su trabajo en la huerta de la escuela, cuando siembran, riegan, observan, registran y cuidan cada cultivo. Año tras año, cada grupo deja su huella sumando las variedades que se siembran.</p></section>';
@@ -157,6 +141,22 @@
       });
       h += '</ul></section>';
     }
+    if (!instalada) {
+      h += '<section class="caja" style="background:var(--celeste)"><h2>📲 Instalar la app (opcional)</h2>';
+      if (esIOS) {
+        h += '<p>No hace falta instalarla para usarla en la huerta. Si querés tenerla como app, abrí esta página con <b>Safari</b>.</p><ol class="pasos">' +
+          '<li>Tocá el botón <b>Compartir</b> (el cuadradito con la flecha).</li>' +
+          '<li>Elegí <b>Agregar a pantalla de inicio</b>.</li>' +
+          '<li>Tocá <b>Agregar</b>.</li></ol>';
+      } else {
+        h += '<p>No hace falta instalarla para usarla en la huerta. Si querés tenerla como app, tocá el botón. Si aparece el aviso <b>“Se bloqueó la app no segura”</b>, tocá <b>Ver más</b>. No te preocupes, es seguro tocar <b>Instalar de todas formas</b>. La app queda en tu celular con el ícono de la huerta.</p>';
+        h += '<p style="margin-top:10px"><button class="boton boton-claro boton-ancho" type="button" id="instalar"' +
+          (eventoInstalar ? '' : ' hidden') + '>Instalar la app</button></p>';
+        h += '<p id="instalar-ayuda"' + (eventoInstalar ? ' hidden' : '') + '>Si no aparece el botón, tocá los tres puntitos del navegador y elegí <b>Instalar aplicación</b> o <b>Agregar a pantalla principal</b>.</p>';
+      }
+      h += '</section>';
+    }
+
     h += '<img class="ramita abajo" src="iconos/ramita.svg" alt="">';
     h += '</div>';
     return h;
