@@ -11,6 +11,10 @@
   var relojCarrusel = null;
   var eventoInstalar = null;
   var reintento = false;
+  // Contador de visitas (GoatCounter). Solo manda el nombre de la ficha, nunca el código del QR ni datos de nadie.
+  var CONTADOR = 'https://huerta-cept30.goatcounter.com/count';
+  var CLAVE_PENDIENTES = 'huerta-visitas-pendientes';
+  var ultimaContada = null;
   var NOMBRES_MES = ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto',
     'Septiembre', 'Octubre', 'Noviembre', 'Diciembre'];
 
@@ -167,6 +171,42 @@
       '<p>Probá escanear de nuevo el código QR del cartel.</p></section>' + botonEscanear(false);
   }
 
+  // Guarda la visita en el celular y la manda cuando hay internet (en la huerta no hay señal)
+  function leerPendientes() {
+    try { var v = JSON.parse(localStorage.getItem(CLAVE_PENDIENTES) || '[]'); return Array.isArray(v) ? v : []; } catch (e) { return []; }
+  }
+  function guardarPendientes(v) {
+    try { localStorage.setItem(CLAVE_PENDIENTES, JSON.stringify(v.slice(-300))); } catch (e) {}
+  }
+  var enviando = false;
+  function enviarPendientes() {
+    if (enviando || !navigator.onLine) return;
+    var v = leerPendientes();
+    if (!v.length) return;
+    enviando = true;
+    var h = v[0];
+    var url = CONTADOR + '?p=' + encodeURIComponent(h.p) + '&t=' + encodeURIComponent(h.t) +
+      '&s=' + encodeURIComponent(screen.width + ',' + screen.height + ',' + (window.devicePixelRatio || 1)) +
+      '&rnd=' + Math.random().toString(36).slice(2);
+    fetch(url, { mode: 'no-cors', cache: 'no-store', keepalive: true })
+      .then(function () {
+        guardarPendientes(leerPendientes().slice(1));
+        enviando = false;
+        enviarPendientes();
+      })
+      .catch(function () { enviando = false; });
+  }
+  function contarVisita(ruta, titulo) {
+    if (ruta === ultimaContada) return;
+    ultimaContada = ruta;
+    if (/^(localhost|127\.0\.0\.1)$/.test(location.hostname)) return;
+    var v = leerPendientes();
+    v.push({ p: ruta, t: titulo });
+    guardarPendientes(v);
+    enviarPendientes();
+  }
+  window.addEventListener('online', enviarPendientes);
+
   function mostrar() {
     var codigo = decodeURIComponent(location.hash.replace(/^#\/?/, '')).trim().toLowerCase();
     var f = porCodigo[codigo];
@@ -176,12 +216,14 @@
       contenido.innerHTML = verInicio();
       iniciarCarrusel();
       document.title = 'Huerta C.E.P.T. N.° 30';
+      contarVisita('/', 'Inicio');
       actualizarEstado();
       prepararInstalar();
     } else if (f) {
       contenido.innerHTML = verFicha(f);
       document.title = f.nombre.charAt(0) + f.nombre.slice(1).toLowerCase() + ' · Huerta C.E.P.T. N.° 30';
       guardarVista(codigo);
+      contarVisita('/' + f.nombre.toLowerCase().replace(/\s+/g, '-'), f.nombre.charAt(0) + f.nombre.slice(1).toLowerCase());
     } else {
       contenido.innerHTML = verNoEncontrada();
       if (!reintento && navigator.onLine) {
@@ -333,7 +375,7 @@
     if (e.target.closest('[data-escanear]')) abrirEscaner();
   });
   document.getElementById('cerrar-escaner').addEventListener('click', cerrarEscaner);
-  window.addEventListener('hashchange', mostrar);
+  window.addEventListener('hashchange', function () { ultimaContada = null; mostrar(); });
 
   if ('serviceWorker' in navigator) {
     window.addEventListener('load', function () {

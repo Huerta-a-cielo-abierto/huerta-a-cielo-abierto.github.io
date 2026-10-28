@@ -1,6 +1,6 @@
 // Guarda toda la app en el celular para que funcione sin internet.
 // Cuando se cambie algo, subir el número de VERSION para que los celulares bajen lo nuevo.
-var VERSION = 'huerta-v17';
+var VERSION = 'huerta-v18';
 var ARCHIVOS = [
   './', 'index.html', 'estilos.css', 'app.js', 'fichas.json', 'manifest.webmanifest',
   'vendor/jsQR.js', 'iconos/icono-180.png', 'iconos/icono-192.png', 'iconos/icono-512.png', 'iconos/ramita.svg', 'iconos/cept-logo.png'
@@ -20,6 +20,8 @@ self.addEventListener('activate', function (e) {
 
 self.addEventListener('fetch', function (e) {
   if (e.request.method !== 'GET') return;
+  // El contador de visitas va directo a internet, sin pasar por lo guardado
+  if (new URL(e.request.url).origin !== self.location.origin) return;
   // Las fichas se buscan primero en internet, así un cartel nuevo se abre aunque el celular tenga la versión vieja guardada
   if (new URL(e.request.url).pathname.endsWith('/fichas.json')) {
     e.respondWith(fetch(e.request, { cache: 'no-store' }).then(function (r) {
